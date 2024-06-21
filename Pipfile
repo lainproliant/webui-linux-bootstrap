@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 torch = "==2.2.0"
+platformdirs = "*"
 
 [dev-packages]
 
